@@ -1,0 +1,10 @@
+13/10/2023 23:27:36 responsivelog opening chrome url https://www.w3schools.com/w3css/tryw3css_templates_band.htm resolution 1440, 900
+13/10/2023 23:27:36 responsivelog expw 153.578px exph 153.578px
+13/10/2023 23:27:39 responsivelog Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\ADMIN\.cache\selenium\chrome\win64\118.0.5993.70\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'SAURABHPC', ip: '192.168.0.107'
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], binary: C:\Users\ADMIN\.cache\selen..., extensions: []}}]}]

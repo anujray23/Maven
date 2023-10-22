@@ -1,0 +1,12 @@
+14/09/2023 10:56:45 responsivelog opeing chrome url https://www.w3schools.com/w3css/tryw3css_templates_band.htm resolution 1440, 900
+14/09/2023 10:56:45 responsivelog expw 153.578px exph 153.578px
+14/09/2023 10:56:56 responsivelog actualw 153.578px actualh 153.578px
+14/09/2023 10:56:57 responsivelog pass
+14/09/2023 10:56:58 responsivelog opeing chrome url https://www.w3schools.com/w3css/tryw3css_templates_band.htm resolution 375, 667
+14/09/2023 10:56:58 responsivelog expw 205.594px exph 205.594px
+14/09/2023 10:57:04 responsivelog actualw 270.594px actualh 270.594px
+14/09/2023 10:57:04 responsivelog fail
+14/09/2023 10:57:05 responsivelog opeing chrome url https://www.w3schools.com/w3css/tryw3css_templates_band.htm resolution 820, 1180
+14/09/2023 10:57:05 responsivelog expw 153px exph 153px
+14/09/2023 10:57:11 responsivelog actualw 150.984px actualh 150.984px
+14/09/2023 10:57:11 responsivelog fail
